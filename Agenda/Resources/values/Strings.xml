@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Agenda</string>
+    <string name="Register">Register</string>
+    <string name="Name">Name</string>
+    <string name="TelephoneNumber">Telephone number</string>
+    <string name="EmailAddress">Email address</string>
+</resources>
